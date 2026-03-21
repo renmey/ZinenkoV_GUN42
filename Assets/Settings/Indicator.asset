@@ -13,21 +13,21 @@ MonoBehaviour:
   m_Name: Indicator
   m_EditorClassIdentifier: 
   <Settings>k__BackingField:
-  - Mult: 0
-    Text: 
+  - Mult: 1
+    Text: Wow
     Clip: {fileID: 0}
-  - Mult: 0
-    Text: 
-    Clip: {fileID: 0}
-  - Mult: 0
-    Text: 
-    Clip: {fileID: 0}
-  - Mult: 0
-    Text: 
-    Clip: {fileID: 0}
-  - Mult: 0
-    Text: 
-    Clip: {fileID: 0}
-  - Mult: 0
-    Text: 
-    Clip: {fileID: 0}
+  - Mult: 2
+    Text: Nice
+    Clip: {fileID: 7400000, guid: e08f23a07b838574ca4693e7253be84b, type: 2}
+  - Mult: 3
+    Text: Coool
+    Clip: {fileID: 7400000, guid: 369a08b853e326842b575f16632e0875, type: 2}
+  - Mult: 4
+    Text: Wooow
+    Clip: {fileID: 7400000, guid: 99d3ab7eb444ec6489fb7f276b12114f, type: 2}
+  - Mult: 5
+    Text: WHAAAU
+    Clip: {fileID: 7400000, guid: bd1ad0e5a35c3644b9309fe20307cda8, type: 2}
+  - Mult: 6
+    Text: CARNAGE
+    Clip: {fileID: 7400000, guid: bd1ad0e5a35c3644b9309fe20307cda8, type: 2}
